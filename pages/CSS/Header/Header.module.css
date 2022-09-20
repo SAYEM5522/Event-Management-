@@ -1,0 +1,14 @@
+.Header{
+display: flex;
+align-items: center;
+justify-content: space-between;
+height: 75px;
+background-color: #FFFFFF;
+width: "100%";
+}
+.Header__Left{
+
+}
+.Header__Right{
+
+}
